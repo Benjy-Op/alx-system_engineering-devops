@@ -1,2 +1,1 @@
-#!/bin/sh
-pwd
+readme that isnt empty at all
